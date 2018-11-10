@@ -22,4 +22,6 @@ We provide two options for installing : Docker or directly from Github.
 
 
 Testing
-We tested four different tools with . They can be found in server/tools/ .
+We tested four different tools with . They can be found in server/tools/ 
+
+![](longest_pocket_vol_plot_2.png))
