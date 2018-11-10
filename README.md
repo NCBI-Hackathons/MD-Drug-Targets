@@ -24,4 +24,10 @@ We provide two options for installing : Docker or directly from Github.
 Testing
 We tested four different tools with . They can be found in server/tools/ 
 
-![](longest_pocket_vol_plot_2.png))
+
+# Pocket volume over time (cubic Angstroms)
+![](longest_pocket_vol_plot_2.png)
+
+# The "pocket" is a loop
+
+![](pocket_pymol.png)
